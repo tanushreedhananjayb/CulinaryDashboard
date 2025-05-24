@@ -1,0 +1,23 @@
+# Web Framework
+Flask==3.0.2
+
+# Core Data Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Map Visualization
+folium==0.16.0
+
+# Notebook to .py conversion (for convert_notebook.py)
+nbconvert==7.14.2
+
+# Visualization (Optional if used in notebook or for local analysis)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Progress bar (optional utility)
+tqdm==4.66.2
