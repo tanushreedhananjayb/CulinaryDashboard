@@ -56,6 +56,21 @@ CulinaryDashboard/
 
 ---
 
+---
+
+## Quick Start: All Commands at a Glance
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+# Alternatively, install directly:
+pip install flask pandas folium scikit-learn numpy matplotlib seaborn tqdm nbconvert
+python app.py
+# Open in browser:
+http://127.0.0.1:5000
+
+
 ## How to Run This Project Locally
 
 1. Clone the repository:
@@ -85,6 +100,28 @@ http://127.0.0.1:5000
 
 
 ---
+Updated requirements.txt
+# Web Framework
+Flask==3.0.2
+
+# Core Data Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Map Visualization
+folium==0.16.0
+
+# Notebook conversion and utilities
+nbconvert==7.14.2
+tqdm==4.66.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
 
 ## Key Features and Results
 
