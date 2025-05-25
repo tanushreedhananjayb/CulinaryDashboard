@@ -112,7 +112,7 @@ All tasks have been successfully completed and validated. The code has been modu
 
 ## Acknowledgments
 
-Special thanks to Cognifyz Technologies for providing the opportunity to work on this problem statement. Gratitude to the mentors and evaluators who supported the process through feedback and guidance.
+Special thanks to Cognifyz Technologies for providing the opportunity to work on this problem statement.
 
 ---
 
